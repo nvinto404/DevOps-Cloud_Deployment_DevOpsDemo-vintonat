@@ -187,8 +187,8 @@ export class GuiModel {
                             "name": { default: "Neues To-Do mit Datumsbegrenzung"},
                             "icon": "fa-calendar",
                             "style": 5,
-                            "color": "teal",
-                            "width": 2,
+                            "color": "red",
+                            "width": 4,
                             "form": {
                                 "form": "Neu"
                             }
