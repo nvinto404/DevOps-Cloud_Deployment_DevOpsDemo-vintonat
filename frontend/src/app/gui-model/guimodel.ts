@@ -192,7 +192,21 @@ export class GuiModel {
                             "form": {
                                 "form": "Neu"
                             }
+                        },
+
+                        {
+                            "type": "newButton", 
+                            "name": { default: "Noch ein weiteres To-Do mit Datumsbegrenzung"},
+                            "icon": "fa-calendar",
+                            "style": 3,
+                            "color": "blue",
+                            "width": 3,
+                            "form": {
+                                "form": "Neu"
+                            }
                         }
+
+                        
                     ]
                 },
             ]
